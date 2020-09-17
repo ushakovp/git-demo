@@ -17,3 +17,8 @@ feature content
 2 lines
 another
 and another content
+
+another miningless text
+another miningless text
+another miningless text
+another miningless text
