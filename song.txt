@@ -17,3 +17,8 @@ feature content
 2 lines
 another
 and another content
+
+conflicting text
+conflicting text
+conflicting text
+conflicting text
